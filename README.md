@@ -5,7 +5,11 @@ Dashboard completo para **gestão de estabelecimentos** e **controle de pedidos*
 Desenvolvido como projeto da **Trilha de ReactJS da Rocketseat**, este sistema simula o ambiente de um restaurante ou lanchonete conectado a uma plataforma de delivery, com funcionalidades voltadas para administração, acompanhamento e análise de desempenho do negócio.
 
 ---
-
+![Captura 1](.github/cap1.png)
+![Captura 1](.github/cap2.png)
+![Captura 1](.github/cap3.png)
+![Captura 1](.github/cap4.png)
+![Captura 1](.github/cap5.png)
 ## 🚀 Tecnologias Utilizadas
 
 - **React** — biblioteca principal
@@ -64,7 +68,3 @@ O projeto segue uma arquitetura modular, com separação clara entre **component
 Implementação de testes unitários para componentes e lógica de negócio, garantindo maior confiabilidade no comportamento da aplicação.
 
 ---
-
-## 💡 Observações
-
-Este projeto foi desenvolvido com fins educacionais, visando consolidar conhecimentos em React e seu ecossistema moderno. Ele pode ser expandido facilmente com integrações como autenticação por OAuth, notificações via WebSocket, relatórios PDF, entre outros.

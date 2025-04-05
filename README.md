@@ -1,4 +1,4 @@
-# 🍽️ Pizza Shop
+# 🍕 Pizza Shop
 
 Dashboard completo para **gestão de estabelecimentos** e **controle de pedidos**, inspirado na experiência do iFood.
 

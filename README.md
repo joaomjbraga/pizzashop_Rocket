@@ -4,6 +4,11 @@ Dashboard completo para **gestão de estabelecimentos** e **controle de pedidos*
 
 Desenvolvido como projeto da **Trilha de ReactJS da Rocketseat**, este sistema simula o ambiente de um restaurante ou lanchonete conectado a uma plataforma de delivery, com funcionalidades voltadas para administração, acompanhamento e análise de desempenho do negócio.
 
+### 🔗 API Necessária
+Este projeto depende da seguinte API para funcionar corretamente:
+
+    https://github.com/joaomjbraga/pizzashop-API_Rocket.git
+
 ---
 ![Captura 1](.github/cap1.png)
 ![Captura 1](.github/cap2.png)

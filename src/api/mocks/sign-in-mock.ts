@@ -7,7 +7,7 @@ export const signInMock = http.post<never, SignInRequest>(
   async ({ request }) => {
     const { email } = await request.json()
 
-    if (email === 'john.doe@example.com') {
+    if (email === 'joomdeveloper.app@gmail.com') {
       return new HttpResponse(null, {
         headers: {
           'Set-Cookie': 'auth=sample-jwt-token',
